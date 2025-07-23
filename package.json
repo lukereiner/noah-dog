@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@supabase/supabase-js": "^2.46.1",
+    "chart.js": "^4.4.6"
+  }
+}
